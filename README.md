@@ -1,9 +1,10 @@
 # Project: Intelligent robot
 
 
-<img src="https://s8.gifyu.com/images/image6dd111514cc48719.gif"/>
-<a href="https://gifyu.com/image/SHi7o"><img src="https://s8.gifyu.com/images/detcce34c84e2111fe0.gif" alt="detcce34c84e2111fe0.gif" border="0" /></a>
+
+
 <a href="https://gifyu.com/image/SHiIh"><img src="https://s8.gifyu.com/images/imagee81f58390eec4343.gif" alt="imagee81f58390eec4343.gif" border="0" /></a>
+<a href="https://gifyu.com/image/SHi7o"><img src="https://s8.gifyu.com/images/detcce34c84e2111fe0.gif" alt="detcce34c84e2111fe0.gif" border="0" /></a>
 
 
 ### Background
